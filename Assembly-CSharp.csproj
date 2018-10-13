@@ -72,6 +72,12 @@
     <Compile Include="Assets\Scripts\Command Pattern\PickUpCommand.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\RegistryCommandPattern.cs" />
     <Compile Include="Assets\ThomasMovementController.cs" />
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>/Users/agustingrassi/Dropbox/03_ PROYECTO JUEGOS/PRUEBAS/Save_the_president/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>/Users/agustingrassi/Dropbox/03_ PROYECTO JUEGOS/PRUEBAS/Save_the_president/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>
